@@ -1,2 +1,2 @@
-# DASHBOARD-POWER-BI
-En esta sección podrás encontrar los dashboards hechos por mi en Power Bi para empresas extranjeras
+# Certificados Originales
+En esta sección podrás encontrar los certificados originales que obtuve hasta el momento
